@@ -1,0 +1,10 @@
+How my code runs ?
+
+Java Developement Kit -----> Java Runtime Environment ------> Java Virtual Machine 
+
+1) Compilation : sourcecode(.java) goes to the compiler, and converts it into byte code (.class) 
+          [PORTABLE LANGUAGE] can executed on any system 
+2) Execution : byte code (.class) with the help of JVM converts it into native code
+
+source code ----> byte code -----> native code
+        [COMPILATION]        JVM       [EXECUTION]
