@@ -1,0 +1,6 @@
+print
+println : used to leave line to print the new line 
+
+OR 
+
+can also use "\n"
